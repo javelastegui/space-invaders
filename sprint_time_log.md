@@ -2,7 +2,7 @@
 
 Name: Jose Velastegui
 
-Sprint #: 3
+Sprint #: 4
 
 ## Instructions
 
@@ -25,28 +25,26 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date       | Start Time | Category | Description                                 | Total Minutes |
-| :--------- | :--------- | :------: | :------------------------------------------ | :-----------: |
-| 10/20/2025 | 2:00 PM    |   MTG    | Sprint 3 Planning Meeting (STC)             |      60       |
-| 10/20/2025 | 8:00 PM    |    IM    | Space Invaders: Set up Spaceship class      |      60       |
-| 10/21/2025 | 3:00 PM    |    TP    | Worked on program design in Figma           |      60       |
-| 10/21/2025 | 8:00 PM    |    IM    | Space Invaders: Coded player movement       |      60       |
-| 10/22/2025 | 2:00 PM    |   MTG    | Class Stand-Up Meeting (STC)                |      60       |
-| 10/22/2025 | 8:00 PM    |    IM    | Space Invaders: Implemented keyboard input  |      60       |
-| 10/23/2025 | 3:00 PM    |    TP    | Updated Figma designs for team project      |      60       |
-| 10/23/2025 | 8:00 PM    |    IM    | Space Invaders: Added screen constraints    |      60       |
-| 10/24/2025 | 2:00 PM    |   MTG    | Class Stand-Up Meeting (STC)                |      60       |
-| 10/24/2025 | 8:00 PM    |    IM    | Space Invaders: Refactored main game loop   |      60       |
-| 10/25/2025 | 8:00 PM    |    IM    | Space Invaders: Started work on Laser class |      60       |
-| 10/26/2025 | 8:00 PM    |    IM    | Space Invaders: Debugged laser firing logic |      60       |
-| 10/27/2025 | 2:00 PM    |   MTG    | Team Review Meeting (STC)                   |      60       |
-| 10/27/2025 | 8:00 PM    |    IM    | Space Invaders: Started Alien class         |      60       |
-| 10/28/2025 | 3:00 PM    |    TP    | Created new wireframes in Figma             |      60       |
-| 10/28/2025 | 8:00 PM    |    IM    | Space Invaders: Began alien movement logic  |      60       |
-| 10/29/2025 | 8:00 PM    |    IM    | Space Invaders: Wrote Readme file           |      60       |
-| 10/30/2025 | 3:00 PM    |    TP    | Finalized Figma design flow for team        |      60       |
-| 10/30/2025 | 8:00 PM    |    IM    | Space Invaders: Prepared for presentation   |      60       |
-| 10/31/2025 | 8:00 PM    |    IM    | Space Invaders: Final code cleanup          |      60       |
+| Date       | Start Time | Category | Description                                                      | Total Minutes |
+| :--------- | :--------- | :------: | :--------------------------------------------------------------- | :-----------: |
+| 11/03/2025 | 2:00 PM    |   MTG    | Sprint 4 Planning Meeting (STC)                                  |      60       |
+| 11/03/2025 | 8:00 PM    |    IM    | Space Invaders: Implemented Alien swarm movement logic           |      90       |
+| 11/04/2025 | 3:00 PM    |    TP    | Team Project: Planned Profile screen UI/UX                       |      60       |
+| 11/05/2025 | 2:00 PM    |   MTG    | Class Stand-Up Meeting (STC)                                     |      60       |
+| 11/05/2025 | 8:00 PM    |    IM    | Space Invaders: Coded Obstacle class and block destruction       |      120      |
+| 11/06/2025 | 3:00 PM    |    TP    | Team Project: Coded Profile screen layout                        |      60       |
+| 11/06/2025 | 8:00 PM    |    IM    | Space Invaders: Implemented player/alien laser collisions        |      90       |
+| 11/07/2025 | 2:00 PM    |   MTG    | Class Stand-Up Meeting (STC)                                     |      60       |
+| 11/07/2025 | 8:00 PM    |    IM    | Space Invaders: Added Mystery Ship functionality                 |      60       |
+| 11/08/2025 | 8:00 PM    |    IM    | Space Invaders: Implemented game state (Game Over, Reset)        |      60       |
+| 11/10/2025 | 2:00 PM    |   MTG    | Team Review Meeting (STC)                                        |      60       |
+| 11/10/2025 | 8:00 PM    |    IM    | Space Invaders: Added High Score (reading/writing to file)       |      60       |
+| 11/11/2025 | 3:00 PM    |    TP    | Team Project: Integrated Firebase API for log out functionality  |      90       |
+| 11/12/2025 | 8:00 PM    |    IM    | Space Invaders: (Stretch) Added sounds (music, laser, explosion) |      60       |
+| 11/13/2025 | 3:00 PM    |    TP    | Team Project: Tested Profile screen and log out feature          |      30       |
+| 11/13/2025 | 8:00 PM    |    IM    | Space Invaders: Final debugging, testing, and code cleanup       |      60       |
+| 11/14/2025 | 8:00 PM    |    IM    | Space Invaders: Wrote README file and assignment report          |      60       |
+| 11/15/2025 | 2:00 PM    |   MTG    | Individual Review Meeting (STC)                                  |      60       |
 
 _Note: Add more rows as needed._
 
@@ -54,7 +52,7 @@ _Note: Add more rows as needed._
 
 | Categroy               | Total Time (Hours:Minutes) |
 | :--------------------- | :------------------------: |
-| IM - Individual Module |           12:00            |
+| IM - Individual Module |           11:00            |
 | TP - Team Project      |            4:00            |
-| MTG - Class Meetings   |            4:00            |
+| MTG - Class Meetings   |            5:00            |
 | **TOTAL**              |         **20:00**          |
